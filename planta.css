@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2? family= Pacifico & family= Roboto & display=swap');
+
+body {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	Font-family: roboto;
+}
+
+.nome h1 {
+	padding-left: 25px;
+	color: white;
+	background-color: #141B21;
+	margin: 0;
+}
+
+.set img {
+	border: px solid black ;
+	background-color: #141B21;
+	width: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding-left: 25px;
+}
+
+.topo {
+	background-image: url(plantas.jpg);
+	border: 0px solid white;
+}
+
+.set {
+	border: 1px solid black ;
+}
+
+.descricao {
+	border: px solid black;
+	height: 110px;
+	margin-top: 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	background-color: #AFCFA6;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.descricao h2 {
+	font-size: 20px;
+	color: #141B21 ;
+}
+
+.descricao h3 {
+	font-size: 16px;
+	color: #141B21 ;
+}
+
+.corpo {
+	background-color: #93B08A;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 152px;
+	margin: 0px;
+	bottom: 0px;
+}
+
+.status {
+	padding-top: 2px;
+}
+.statusA {
+	display: flex;
+	flex-direction: row;
+	border: px solid #80AE89;
+	margin: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: #E2FDDA;
+}
+
+.statusB {
+	display: flex;
+	flex-direction: column;
+}
+
+.statusC {
+	display: flex;
+	flex-direction: row;
+	border: px solid #80AE89;
+	margin: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: #E2FDDA;
+}
+
+.statusD {
+	display: flex;
+	flex-direction: column;
+}
+
+.status img {
+	padding: 25px;
+	width: 50px;
+	height: 50px;
+}
+
+.status h2 {
+	margin-bottom: 10px;
+}
+
+.status h3 {
+	margin-bottom: -15px;
+}
+
+.status {
+	background-color: #D4EECC;
+	padding-bottom: 2px;
+}
+
+.text1 {
+	color: #D4EECC;
+	border: 0px solid black;
+	background-color: #437C56;
+	height: 125px;
+	margin-top: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 1px;
+	
+	margin-left: 15px;
+	margin-right: 15px;
+	justify-content: center;
+	text-align: center;
+}
+
+.text1 h3 {
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+.text2 h3 {
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+.text1 h4 {
+	margin-top: 2px;
+}
+
+.text2 h4 {
+	margin-top: 2px;
+}
+
+.text11 h2 {
+	color: #141B21;
+	margin-top: 2px;
+	margin-bottom: 5px;
+	border: 0px solid black;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #FFF3CB;
+}
+
+.text22 h2 {
+	color: #141B21;
+	margin-top: 2px;
+	margin-bottom: 5px;
+	border: 0px solid black;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #FFF3CB;
+
+}
+
+
+.text2 {
+	color: #D4EECC;
+	border: 0px solid black;
+	background-color: #437C56;
+	height: 125px;
+	margin-top: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 1px;
+	margin-left: 15px;
+	margin-right: 15px;
+	justify-content: center;
+	text-align: center;
+}
+
+.config {
+	background-color: #AFCFA6;
+	padding-top: 9px;
+	padding-bottom: 15px;
+}
+
+.final {
+	background-color: #80AE89;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	height: 50px;
+	margin: 0px;
+	bottom: 0px;
+}
+
+.final img {
+	padding: 10px 50px;
+}
